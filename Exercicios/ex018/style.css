@@ -1,0 +1,16 @@
+@charset "UTF-8";
+@font-face {
+    font-family: LoveLarry;
+    src: url(fontes/Bouncy-Black-PERSONAL_USE_ONLY.otf) format('opentype'), url(fontes/Bouncy-PERSONAL_USE_ONLY.otf) format('opentype'), url(fontes/Bouncy-Thin-PERSONAL_USE_ONLY.otf) format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: LoveLarry, cursive;
+    font-size: 3em;
+}
